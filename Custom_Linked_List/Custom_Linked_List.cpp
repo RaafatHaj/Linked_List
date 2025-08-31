@@ -95,8 +95,8 @@ int main()
 
     MydblLinkedList.InsertAfter(1, 444);
 
-    cout << "\nAfter Inserting  \n";
-    MydblLinkedList.PrintList();
+    //cout << "\nAfter Inserting  \n";
+    //MydblLinkedList.PrintList();
 
 
     system("pause>0");
