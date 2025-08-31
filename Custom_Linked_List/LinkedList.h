@@ -9,6 +9,8 @@ class LinkedList
 {
 
 
+
+
 protected:
     int _Size = 0;
 
